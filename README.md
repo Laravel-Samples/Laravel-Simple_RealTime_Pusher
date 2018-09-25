@@ -27,7 +27,6 @@ PUSHER_APP_SECRET=
 PUSHER_APP_CLUSTER=
 ```
 
-
 License
 ----
 
