@@ -25,6 +25,10 @@ Install the [laravel-echo] and [pusher-js]:
 ```
 $ npm install --save laravel-echo pusher-js && npm run dev
 ```
+License
+----
+
+MIT
 
 **by [Thiago Mallon]**
 
