@@ -2,7 +2,10 @@
 
 App exemplifying how to implement a simplistic real-time public message broadcasting resource along with [Pusher], [Laravel Events], [Laravel Channels], [Laravel Echo] and [Vue.js].
 
-The application updates in real time the home page message. The route to update the message is:
+### Home page real-time message updating:
+Under the title, in the home page lays a quotation: Genius is one percent inspiration and ninety-nine percent perspiration. - Thomas Edison
+
+This message can be update in real time, it means that all browsers or tabs running the home page of this app will be updated in real time if a new message is sent to:
 ```
 /api/send-message/{your-message}
 ```
