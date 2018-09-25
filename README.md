@@ -2,6 +2,12 @@
 
 App exemplifying how to implement a simplistic real-time public alert broadcasting resource along with [Pusher], [Laravel Events], [Laravel Channels], [Laravel Echo] and [Vue.js].
 
+The:w
+application updates in real time the home page message. The route to update the message is:
+```
+/api/send-message/{your-message}
+```
+
 Install composer dependencies:
 ```
 $ composer install
