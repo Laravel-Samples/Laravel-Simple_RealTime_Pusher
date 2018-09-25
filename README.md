@@ -20,11 +20,12 @@ $ npm install && npm run dev
 ```
 
 On you .env file put your Pusher credentials:
-
+```
 PUSHER_APP_ID=
 PUSHER_APP_KEY=
 PUSHER_APP_SECRET=
 PUSHER_APP_CLUSTER=
+```
 
 
 License
