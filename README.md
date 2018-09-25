@@ -19,7 +19,7 @@ Instal npm dependencies and run the mix tasks:
 $ npm install && npm run dev
 ```
 
-On you .env file put your Pusher credentials:
+On your .env file put your Pusher credentials:
 ```
 PUSHER_APP_ID=
 PUSHER_APP_KEY=
