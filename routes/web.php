@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+/* Non authenticated routes */
+Route::get('/', 'FrontController@index')->name('home');
+
