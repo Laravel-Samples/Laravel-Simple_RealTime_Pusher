@@ -7,7 +7,6 @@ application updates in real time the home page message. The route to update the 
 ```
 /api/send-message/{your-message}
 ```
-
 Install composer dependencies:
 ```
 $ composer install
