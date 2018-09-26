@@ -1,4 +1,4 @@
-# Laravel 5.7 -  Real-time Public Notifications
+# Laravel 5.7 -  Simplistic Real-time public message broadcasting with Pusher.
 
 App exemplifying how to implement a simplistic real-time public message broadcasting resource along with [Pusher], [Laravel Events], [Laravel Channels], [Laravel Echo] and [Vue.js].
 
